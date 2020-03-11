@@ -1,0 +1,8 @@
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\obj\Debug\Encriptar.vbprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\obj\Debug\Encriptar.MainForm.resources
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\obj\Debug\Encriptar.vbproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\bin\Debug\Encriptar.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\bin\Debug\Encriptar.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\obj\Debug\Encriptar.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\obj\Debug\Encriptar.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Encriptar\Encriptar\obj\Debug\Encriptar.Confirma.resources
